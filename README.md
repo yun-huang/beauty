@@ -1,4 +1,4 @@
-# Beauty
+# Online Sentiment Analysis
 
 Visualized Insights: https://yhprojectone.weebly.com/insights.html
 

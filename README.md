@@ -1,5 +1,7 @@
 # Beauty
 
+Visualized Insights: https://yhprojectone.weebly.com/insights.html
+
 ## Yelp Nail Salon Analysis
 
 This project analyzes data on nail salons in Philadelphia, PA, using the Yelp API and local property values. The aim is to explore trends and relationships between various business attributes and local property values.
